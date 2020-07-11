@@ -32,7 +32,7 @@ $ ls
 <br/>
 $ cd bvai
 <br/>
-$ python2 bvai.py
+$ python2 shahelyas.py
 <br/>
 ...
 <br/>
